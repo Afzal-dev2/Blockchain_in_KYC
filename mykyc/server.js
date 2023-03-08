@@ -190,9 +190,9 @@ app.post("/sendmail",function(req,res){
 		auth: {
 		type: 'OAuth2',
 		  user: 'afzaldev2@gmail.com',
-		  pass: 'cleverAf98413',
-		  clientId:'976524529101-cvbt0g83tbftupv451k5i8241rdr4hle.apps.googleusercontent.com',
-		  clientSecret:'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',
+		  pass: '',
+		  clientId:'',
+		  clientSecret:'',
 		  refreshToken:'1//042pvDPn_LAyLCgYIARAAGAQSNwF-L9IrsKpDN8-wdjsZspKe6sjAne1s-lk8HY19-YhaEMiLKeCoot4rN2xb6xNAzvF_trK71Bg'
 		}
 	  });
@@ -221,9 +221,9 @@ app.post("/alertmail",function(req,res){
 		auth: {
 			type: 'OAuth2',
 			  user: 'afzaldev2@gmail.com',
-			  pass: 'cleverAf98413',
-			  clientId:'976524529101-cvbt0g83tbftupv451k5i8241rdr4hle.apps.googleusercontent.com',
-			  clientSecret:'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',
+			  pass: '',
+			  clientId:'',
+			  clientSecret:'',
 			  refreshToken:'1//042pvDPn_LAyLCgYIARAAGAQSNwF-L9IrsKpDN8-wdjsZspKe6sjAne1s-lk8HY19-YhaEMiLKeCoot4rN2xb6xNAzvF_trK71Bg'
 			}
 	  });
